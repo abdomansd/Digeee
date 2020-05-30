@@ -43,7 +43,7 @@ body{
     height: 300px;
     background-color: #ffffff8c;
 }
-@media(max-width:900px){
+@media(max-width:500px){
 .cont3{
     height: 650px;
     background: url(r1.jpg);
